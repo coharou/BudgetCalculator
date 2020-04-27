@@ -9,7 +9,7 @@ namespace BudgetCalculator
     class Program
     {
 
-        //***************************************************************
+        //*************************************************************** 
         //  Title:          The Budget Calculator
         //
         //  App. Type:      Console
